@@ -18,7 +18,8 @@ A modern and safe desktop calculator built with Python's Tkinter. Designed to of
 
 ## 🖼️ Preview
 
-> *(Add a screenshot of your calculator GUI here if available)*
+> ![image](https://github.com/user-attachments/assets/e1f63cfa-4604-484b-af6c-e91531547eb5)
+
 
 ---
 
