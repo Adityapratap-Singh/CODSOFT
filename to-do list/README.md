@@ -35,6 +35,8 @@ A modern, theme-friendly, GUI-based task management application built using Pyth
   - PDF: Professional printable report
   - CSV: Compatible with Excel, Google Sheets
 
+![image](https://github.com/user-attachments/assets/b32bffa3-8c8a-4dd4-b361-bab917ab300b)
+
 ---
 
 ## 📦 Installation
