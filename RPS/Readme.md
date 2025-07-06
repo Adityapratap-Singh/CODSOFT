@@ -32,3 +32,5 @@ The first to reach 10 points wins the game.
 Click "Reset Game" to start a new match.
 Click "Exit" to close the game.
 
+![image](https://github.com/user-attachments/assets/4ca41445-c339-4e2f-8c3a-ed64430eacc9)
+
