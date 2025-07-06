@@ -1,0 +1,15 @@
+# Modern To-Do Manager Requirements
+# ---------------------------------------
+# These packages are required for the app.
+# You can install them manually with:
+#     pip install -r requirements.txt
+#
+# 💡 Note: If you run `main.py` directly,
+# it will automatically install any missing packages.
+
+ttkbootstrap
+reportlab
+firebase_admin
+scikit-learn
+TkinterDnD2
+
