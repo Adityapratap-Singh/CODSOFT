@@ -76,24 +76,8 @@ README.md	This file – documentation
 
 🧠 Author
 Adityapratap Singh
-📧 adityapratap@example.com
+📧 adityaprataps406@gmail.com
 💼 Passionate Python developer and tech enthusiast.
 
 🛡️ License
 This project is licensed under the MIT License – see the LICENSE file for details.
-
-🙋‍♂️ Want More?
-If you'd like additional features like:
-
-📤 Exporting contacts to CSV
-
-☁️ Cloud sync (Firebase/Google Drive)
-
-🌙 Dark mode UI
-
-🧊 Convert to EXE (Windows)
-
-Feel free to open an issue or contact me!
-
-
-
